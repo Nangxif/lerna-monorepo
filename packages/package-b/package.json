@@ -11,6 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "chalk": "^5.0.1",
+    "vue": "^3.2.40",
     "vue-cli": "^2.9.6"
   }
 }
